@@ -1,0 +1,12 @@
+{
+   "botsettings":{
+    "prefix":"your_prefix_here", 
+    "talkedRecently" : "3",
+    "token":"your_token_here"
+   },
+
+   "altvsettings":{
+       "altvapiurl":"https://api.altv.mp/server/",
+       "altvserverid":"your_server_id_here"
+   }
+}
