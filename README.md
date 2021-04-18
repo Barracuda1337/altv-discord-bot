@@ -5,6 +5,7 @@
 <ul>
 <li><code>prefix</code>these are prefixes that allow your bot's commands to work. (You Can Increase/Decrease)</li>
 <li><code>token</code> the token that you receive from your bot's Discord Developer Portal profile.</li>
+<li><code>altvserverid</code> the server id that you receive from your altv.mp's</li>
 </li>
 <br>
 </ul>
